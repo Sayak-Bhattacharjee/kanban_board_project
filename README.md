@@ -1,2 +1,2 @@
-# kanban_board_sketchMonk
+This is a kanban board project using Vue.js
  
